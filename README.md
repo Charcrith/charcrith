@@ -19,22 +19,22 @@
 Backend Dev
 -----------
 I’m a Computer Science student majoring in Cyber Security @ Bangkok University. I’m passionate about protecting the digital world and learning how to build secure systems to combat cyber threats. I love exploring new technologies and applying them to create safer digital environments.
-
+-----------
 **Programming Languages**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,go&theme=light&perline=6" class="skill-icon" />
 </p>
-
+-----------
 **Frontend Development**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind&theme=light&perline=6" class="skill-icon" />
 </p>
-
+-----------
 **Backend & Database**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,go,php,prisma,mysql&theme=light&perline=6" class="skill-icon" />
 </p>
-
+-----------
 **Design & Tools**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,git,github,postman,docker,vscode,notion,npm,yarn,bun&theme=light&perline=8" class="skill-icon" />
@@ -46,7 +46,7 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
 <div align="center">
 **Email: Charcrith@gmail.com**
 </div>
-
+-----------
 <div align="center" style="margin-top: 30px; font-size: 13px; color: #666;">
   <i style="color: #003087;">— Bangkok University —</i>
 </div>
