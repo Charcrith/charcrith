@@ -29,7 +29,7 @@
   }
   .skill-icon:hover { 
     transform: translateY(-6px) scale(1.15); 
-    filter: drop-shadow(0 0 12px #FFD700);
+    filter: drop-shadow(0 0 12px #FFD700) !important;
   }
 </style>
 
@@ -69,15 +69,15 @@
 
 <p>
   <a href="mailto:Charcrith@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-003087?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F8F9FA&color=003087" />
+    <img src="https://img.shields.io/badge/Gmail-003087?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=F8F9FA" />
   </a>
   <a href="https://github.com/ttianqii">
-    <img src="https://img.shields.io/badge/GitHub-003087?style=for-the-badge&logo=github&logoColor=white&labelColor=F8F9FA" />
+    <img src="https://img.shields.io/badge/GitHub-003087?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=F8F9FA" />
   </a>
 </p>
 
 </div>
 
 <div align="center" style="margin-top: 30px; font-size: 13px; color: #666;">
-  <i>— Proudly representing Bangkok University —</i>
+  <i style="color: #003087;">— Proudly representing </i><i style="color: #FFD700;">Bangkok University</i> <i style="color: #003087;">—</i>
 </div>
