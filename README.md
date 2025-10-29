@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<p align="center">
-  <img src="./header1.png" alt="Kenji Header" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
@@ -17,9 +13,9 @@
 
 ## 🎓 About Me
 <p align="center" style="font-weight: 600; color: #00DDBB;">
-  💼 <strong>BANGKOK UNIVERSITY【バンコク大学】</strong> 💎<br>
+  💼 <strong> BANGKOK UNIVERSITY </strong> 💎<br>
   School of Information Technology and Innovation<br>
-  <i>Computer Science Major</i>
+  <i>Computer Science - Data Science and Cybersecurity</i>
 </p>
 
 ---
@@ -71,10 +67,10 @@
 ## 📫 Let's Connect!
 <div align="center">
 
-**📧 jaruphat536@gmail.com**
+**Email: Charcrith@gmail.com**
 
 <p>
-  <a href="mailto:jaruphat536@gmail.com">
+  <a href="mailto:Charcrith@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a&color=EA4335" />
   </a>
   <a href="https://github.com/ttianqii">
