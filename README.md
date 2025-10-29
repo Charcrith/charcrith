@@ -85,6 +85,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17&height=120&section=footer&animation=0.5s" />
-</div>
+<!-- Waving footer & snake animation removed -->
