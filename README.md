@@ -15,7 +15,7 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
 
 -----------
 
-## About Me
+## Education
 <p align="center" style="font-weight: 700; color: #003087; line-height: 1.7; font-size: 18px;">
   **BANGKOK UNIVERSITY**<br>
   <span style="color: #005EB8; font-weight: 600;">School of Information Technology and Innovation</span><br>
@@ -24,22 +24,24 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
 
 ---
 
-**Programming Languages**
+## Tech Stack
+
+**Programming Languages**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,go&theme=light&perline=6" class="skill-icon" />
 </p>
 
-**Frontend Development**
+**Frontend Development**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind&theme=light&perline=6" class="skill-icon" />
 </p>
 
-**Backend & Database**
+**Backend & Database**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,go,php,prisma,mysql&theme=light&perline=6" class="skill-icon" />
 </p>
 
-**Design & Tools**
+**Design & Tools**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,git,github,postman,docker,vscode,notion,npm,yarn,bun&theme=light&perline=8" class="skill-icon" />
 </p>
