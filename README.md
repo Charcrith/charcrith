@@ -53,30 +53,10 @@
   <img src="https://skillicons.dev/icons?i=figma,git,github,postman,docker,vscode,notion,npm,yarn,bun&theme=light&perline=8" class="skill-icon" />
 </p>
 
----
-
-## GitHub Stats
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&theme=light&hide_border=true&layout=compact&langs_count=8&bg_color=F8F9FA&title_color=003087&text_color=212529&border_color=DEE2E6&icon_color=003087" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ttianqii&theme=light&hide_border=true&background=F8F9FA&stroke=005EB8&ring=003087&fire=005EB8&currStreakLabel=003087" />
-</div>
-
----
 
 ## Let's Connect!
 <div align="center">
 **Email: Charcrith@gmail.com**
-
-<p>
-  <a href="mailto:Charcrith@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-003087?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=F8F9FA" />
-  </a>
-  <a href="https://github.com/ttianqii">
-    <img src="https://img.shields.io/badge/GitHub-003087?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=F8F9FA" />
-  </a>
-</p>
-
-</div>
 
 <div align="center" style="margin-top: 30px; font-size: 13px; color: #666;">
   <i style="color: #003087;">— Bangkok University —</i>
