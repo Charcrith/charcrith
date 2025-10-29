@@ -6,20 +6,41 @@
 
 <br>
 
-## About Me
-<p align="center" style="font-weight: 700; color: #003087; line-height: 1.7; font-size: 18px;">
-  **BANGKOK UNIVERSITY**<br>
-  <span style="color: #005EB8; font-weight: 600;">School of Information Technology and Innovation</span><br>
-  <i style="color: #212529;">Computer Science - Data Science and Cybersecurity</i>
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm **Charcrit**
+
+<p align="center" style="font-weight: 600; color: #003087; font-size: 20px; margin: 10px 0;">
+  Backend Developer | Cybersecurity Enthusiast
+</p>
+
+<p align="center" style="max-width: 700px; color: #212529; line-height: 1.7; font-size: 16px;">
+  I’m a <strong>Computer Science</strong> student majoring in <strong>Cybersecurity</strong> at <strong>Bangkok University</strong>.  
+  Passionate about building secure systems, defending against digital threats, and exploring cutting-edge technologies to create safer online environments.
 </p>
 
 ---
 
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Charcrit
-Backend Dev
------------
-I’m a Computer Science student majoring in Cyber Security @ Bangkok University. I’m passionate about protecting the digital world and learning how to build secure systems to combat cyber threats. I love exploring new technologies and applying them to create safer digital environments.
------------
+## Education
+<p align="center" style="font-weight: 700; color: #003087; line-height: 1.7; font-size: 18px;">
+  <strong>BANGKOK UNIVERSITY</strong><br>
+  <span style="color: #005EB8; font-weight: 600;">School of Information Technology and Innovation</span><br>
+  <i style="color: #212529;">B.Sc. Computer Science — Data Science & Cybersecurity</i>
+</p>
+
+---
+
+## Tech Stack
+
+<style>
+  .skill-icon { 
+    transition: all 0.3s ease; 
+    filter: brightness(1);
+  }
+  .skill-icon:hover { 
+    transform: translateY(-6px) scale(1.15); 
+    filter: brightness(1.1) drop-shadow(0 0 12px #FFD700) !important;
+  }
+</style>
+
 **Programming Languages**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,go&theme=light&perline=6" class="skill-icon" />
@@ -44,9 +65,10 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
 
 ## Let's Connect!
 <div align="center">
-**Email: Charcrith@gmail.com**
+  <strong>Email:</strong> 
+  <a href="mailto:Charcrith@gmail.com">Charcrith@gmail.com</a>
 </div>
 
 <div align="center" style="margin-top: 30px; font-size: 13px; color: #666;">
-  <i style="color: #003087;">— Bangkok University —</i>
+  <i style="color: #003087;">— Proudly representing Bangkok University —</i>
 </div>
