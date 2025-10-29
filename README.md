@@ -29,7 +29,7 @@
   }
   .skill-icon:hover { 
     transform: translateY(-6px) scale(1.15); 
-    filter: drop-shadow(0 0 12px #FFD700) !important;
+    filter: brightness(1.1) drop-shadow(0 0 12px #FFD700) !important;
   }
 </style>
 
@@ -71,7 +71,7 @@
   <a href="mailto:Charcrith@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-003087?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=F8F9FA" />
   </a>
-  <a href="https://https://github.com/ttianqii">
+  <a href="https://github.com/ttianqii">
     <img src="https://img.shields.io/badge/GitHub-003087?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=F8F9FA" />
   </a>
 </p>
