@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=003087&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;IT+%26+Innovation;CS+-+Data+Science+%26+Cybersecurity&background=F8F9FA00&gradient=003087,005EB8,003087" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;IT+%26+Innovation;CS+-+Data+Science+%26+Cybersecurity&background=F8F9FA00&gradient=FFD700,003087,FFD700" alt="Typing SVG" />
 </div>
 
 <br>
@@ -29,7 +29,7 @@
   }
   .skill-icon:hover { 
     transform: translateY(-6px) scale(1.15); 
-    filter: drop-shadow(0 0 12px #005EB8);
+    filter: drop-shadow(0 0 12px #FFD700) !important;
   }
 </style>
 
@@ -69,10 +69,10 @@
 
 <p>
   <a href="mailto:Charcrith@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-003087?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F8F9FA" />
+    <img src="https://img.shields.io/badge/Gmail-003087?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=F8F9FA" />
   </a>
-  <a href="https://github.com/ttianqii">
-    <img src="https://img.shields.io/badge/GitHub-003087?style=for-the-badge&logo=github&logoColor=white&labelColor=F8F9FA" />
+  <a href="https://https://github.com/ttianqii">
+    <img src="https://img.shields.io/badge/GitHub-003087?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=F8F9FA" />
   </a>
 </p>
 
