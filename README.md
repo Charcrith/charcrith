@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D4A574&center=true&vCenter=true&width=800&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;School+of+Information+Technology+%26+Innovation;Computer+Science+-+Data+Science+and+Cybersecurity&background=F9F5F000&gradient=D4A574,A67C52,8B6F47" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=003087&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;School+of+Information+Technology+%26+Innovation;Computer+Science+-+Data+Science+and+Cybersecurity&background=F8F9FA00&gradient=003087,FFD700,003087" alt="Typing SVG" />
 </div>
 
 <br>
@@ -12,10 +12,10 @@
 </div>
 
 ## About Me
-<p align="center" style="font-weight: 600; color: #8B6F47; line-height: 1.6; font-size: 18px;">
+<p align="center" style="font-weight: 700; color: #003087; line-height: 1.7; font-size: 18px;">
   **BANGKOK UNIVERSITY**<br>
-  School of Information Technology and Innovation<br>
-  <i>Computer Science - Data Science and Cybersecurity</i>
+  <span style="color: #FFD700; font-weight: 600;">School of Information Technology and Innovation</span><br>
+  <i style="color: #212529;">Computer Science - Data Science and Cybersecurity</i>
 </p>
 
 ---
@@ -25,11 +25,11 @@
 <style>
   .skill-icon { 
     transition: all 0.3s ease; 
-    filter: sepia(20%) hue-rotate(20deg);
+    filter: brightness(1);
   }
   .skill-icon:hover { 
     transform: translateY(-6px) scale(1.15); 
-    filter: drop-shadow(0 0 12px #D4A574) sepia(0%);
+    filter: drop-shadow(0 0 12px #FFD700);
   }
 </style>
 
@@ -57,8 +57,8 @@
 
 ## GitHub Stats
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&theme=light&hide_border=true&layout=compact&langs_count=8&bg_color=F9F5F0&title_color=D4A574&text_color=8B6F47&border_color=A67C52" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ttianqii&theme=light&hide_border=true&background=F9F5F0&stroke=A67C52&ring=D4A574&fire=8B6F47&currStreakLabel=D4A574" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&theme=light&hide_border=true&layout=compact&langs_count=8&bg_color=F8F9FA&title_color=003087&text_color=212529&border_color=FFD700&icon_color=003087" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ttianqii&theme=light&hide_border=true&background=F8F9FA&stroke=FFD700&ring=003087&fire=FFD700&currStreakLabel=003087" />
 </div>
 
 ---
@@ -69,11 +69,15 @@
 
 <p>
   <a href="mailto:Charcrith@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D4A574?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F9F5F0" />
+    <img src="https://img.shields.io/badge/Gmail-003087?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F8F9FA&color=003087" />
   </a>
   <a href="https://github.com/ttianqii">
-    <img src="https://img.shields.io/badge/GitHub-8B6F47?style=for-the-badge&logo=github&logoColor=white&labelColor=F9F5F0" />
+    <img src="https://img.shields.io/badge/GitHub-003087?style=for-the-badge&logo=github&logoColor=white&labelColor=F8F9FA" />
   </a>
 </p>
 
+</div>
+
+<div align="center" style="margin-top: 30px; font-size: 13px; color: #666;">
+  <i>— Proudly representing Bangkok University —</i>
 </div>
