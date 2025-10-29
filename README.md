@@ -15,18 +15,11 @@
 
 ---
 
-## Tech Stack
-
-<style>
-  .skill-icon { 
-    transition: all 0.3s ease; 
-    filter: brightness(1);
-  }
-  .skill-icon:hover { 
-    transform: translateY(-6px) scale(1.15); 
-    filter: brightness(1.1) drop-shadow(0 0 12px #FFD700) !important;
-  }
-</style>
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Charcrit
+=================================================================================================================================
+Backend Dev
+-----------
+I’m a Computer Science student majoring in Cyber Security @ Bangkok University. I’m passionate about protecting the digital world and learning how to build secure systems to combat cyber threats. I love exploring new technologies and applying them to create safer digital environments.
 
 **Programming Languages**  
 <p align="center">
@@ -50,27 +43,9 @@
 
 ---
 
-## GitHub Stats
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&theme=light&hide_border=true&layout=compact&langs_count=8&bg_color=F8F9FA&title_color=003087&text_color=212529&border_color=DEE2E6&icon_color=003087" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ttianqii&theme=light&hide_border=true&background=F8F9FA&stroke=005EB8&ring=003087&fire=005EB8&currStreakLabel=003087" />
-</div>
-
----
-
 ## Let's Connect!
 <div align="center">
 **Email: Charcrith@gmail.com**
-
-<p>
-  <a href="mailto:Charcrith@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-003087?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=F8F9FA" />
-  </a>
-  <a href="https://github.com/ttianqii">
-    <img src="https://img.shields.io/badge/GitHub-003087?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=F8F9FA" />
-  </a>
-</p>
-
 </div>
 
 <div align="center" style="margin-top: 30px; font-size: 13px; color: #666;">
