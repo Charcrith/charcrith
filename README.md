@@ -20,17 +20,10 @@
 
 ---
 
-## Tech Stack
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Charcrit
 
 <style>
-  .skill-icon { 
-    transition: all 0.3s ease; 
-    filter: brightness(1);
-  }
-  .skill-icon:hover { 
-    transform: translateY(-6px) scale(1.15); 
-    filter: brightness(1.1) drop-shadow(0 0 12px #FFD700) !important;
-  }
+I’m a Computer Science student majoring in Cyber Security @ Bangkok University. I’m passionate about protecting the digital world and learning how to build secure systems to combat cyber threats. I love exploring new technologies and applying them to create safer digital environments.
 </style>
 
 **Programming Languages**  
