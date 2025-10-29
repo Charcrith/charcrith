@@ -57,13 +57,6 @@
 
 ---
 
-## GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ttianqii&theme=onedark&no-frame=true&margin-w=15&row=1&column=7" />
-</div>
-
----
-
 ## Let's Connect!
 <div align="center">
 **Email: Charcrith@gmail.com**
@@ -77,12 +70,6 @@
   </a>
 </p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ttianqii&label=PROFILE+VIEWS&color=00ffcc&style=flat-square" />
-
 </div>
 
----
-
-<!-- Waving footer & snake animation removed -->
+<!-- All extras removed: trophies, views, snake, footer -->
