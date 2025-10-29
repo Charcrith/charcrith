@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3366&center=true&vCenter=true&width=800&lines=BANGKOK+UNIVERSITY+%E3%80%90%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF%E5%A4%A7%E5%AD%A6%E3%80%91;School+of+Information+Technology+%26+Innovation;Computer+Science+Major;ภาษาไทย+%7C+ENGLISH+%7C+中文+%7C+FRANÇAIS+%7C+日本語&background=00000000&gradient=FF3366,00DDBB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF3366&center=true&vCenter=true&width=800&lines=BANGKOK+UNIVERSITY+%E3%80%90%E3%83%90%E3%83%B3%E3%82%B3%E3%82%AF%E5%A4%A7%E5%AD%A6%E3%80%91;School+of+Information+Technology+%26+Innovation;Computer+Science+-+Data+Science+and+Cybersecurity;ภาษาไทย+%7C+ENGLISH+%7C+中文+%7C+FRANÇAIS+%7C+日本語&background=00000000&gradient=FF3366,00DDBB" alt="Typing SVG" />
 </div>
 
 <br>
@@ -11,16 +11,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## 🎓 About Me
+## About Me
 <p align="center" style="font-weight: 600; color: #00DDBB;">
-  💼 <strong> BANGKOK UNIVERSITY </strong> 💎<br>
+  **BANGKOK UNIVERSITY**<br>
   School of Information Technology and Innovation<br>
   <i>Computer Science - Data Science and Cybersecurity</i>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <style>
   .skill-icon { transition: all 0.3s ease; }
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttianqii&theme=react&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ttianqii&theme=react&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=FF3366&currStreakLabel=00ffcc" />
@@ -57,16 +57,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ttianqii&theme=onedark&no-frame=true&margin-w=15&row=1&column=7" />
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 <div align="center">
-
 **Email: Charcrith@gmail.com**
 
 <p>
@@ -88,8 +87,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17&height=120&section=footer&animation=0.5s" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ttianqii/ttianqii/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
