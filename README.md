@@ -16,7 +16,6 @@
 ---
 
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Charcrit
-=================================================================================================================================
 Backend Dev
 -----------
 I’m a Computer Science student majoring in Cyber Security @ Bangkok University. I’m passionate about protecting the digital world and learning how to build secure systems to combat cyber threats. I love exploring new technologies and applying them to create safer digital environments.
