@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2C2C2C&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;IT+%26+Innovation;CS+-+Data+Science+%26+Cybersecurity&background=F8F9FA00&gradient=2C2C2C,FFD700,2C2C2C" alt="Typing SVG" />
-</div>\
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;IT+%26+Innovation;CS+-+Data+Science+%26+Cybersecurity&background=F8F9FA00&gradient=000000,666666,000000" alt="Typing SVG" />
+</div>
 
 <br>
 
