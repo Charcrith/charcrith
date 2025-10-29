@@ -24,26 +24,9 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
 
 ---
 
-## Tech Stack
-
-**Programming Languages**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go&theme=light&perline=6" class="skill-icon" />
-</p>
-
-**Frontend Development**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind&theme=light&perline=6" class="skill-icon" />
-</p>
-
-**Backend & Database**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,go,php,prisma,mysql&theme=light&perline=6" class="skill-icon" />
-</p>
-
-**Design & Tools**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,postman,docker,vscode,notion,npm,yarn,bun&theme=light&perline=8" class="skill-icon" />
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,vscode,figma,postman,docker,mysql,sqlite" style="height:40px;" />
 </p>
 
 ---
