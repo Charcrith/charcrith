@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%A5%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;School+of+Information+Technology+%26+Innovation;Computer+Science+-+Data+Science+and+Cybersecurity&background=F8F9FA00&gradient=FFD700,003087,FFD700" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;School+of+Information+Technology+%26+Innovation;Computer+Science+-+Data+Science+and+Cybersecurity&background=F8F9FA00&gradient=FFD700,003087,FFD700" alt="Typing SVG" />
 </div>
 
 <br>
@@ -20,17 +20,10 @@
 
 ---
 
-## Tech Stack
+## Backend Dev
 
 <style>
-  .skill-icon { 
-    transition: all 0.3s ease; 
-    filter: brightness(1);
-  }
-  .skill-icon:hover { 
-    transform: translateY(-6px) scale(1.15); 
-    filter: drop-shadow(0 0 12px #FFD700) !important;
-  }
+I’m a Computer Science student majoring in Cyber Security @ Bangkok University. I’m passionate about protecting the digital world and learning how to build secure systems to combat cyber threats. I love exploring new technologies and applying them to create safer digital environments.
 </style>
 
 **Programming Languages**  
