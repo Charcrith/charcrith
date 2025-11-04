@@ -40,8 +40,13 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
         </a>
       </td>
       <td align="center" valign="top" style="padding-left: 30px;">
+        <strong>My GitHub Stats</strong><br><br>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charcrith&layout=donut-vertical&bg_color=181824&text_bold=true&text_color=eeeeee&title_color=ffffff" alt="Top Languages" width="320" />
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=charcrith&layout=donut-vertical&langs_count=8&hide_progress=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&ring_color=58a6ff&hide=jupyter%20notebook,tex" 
+            alt="charcrith's Top Languages" 
+            width="350" 
+          />
         </a>
       </td>
     </tr>
