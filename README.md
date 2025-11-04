@@ -31,7 +31,7 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
 
 ### Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,vscode,figma,postman,docker,mysql,sqlite" style="height:40px;" />
+  <img src="https://skillicons.dev/icons?i=go,python,vscode,figma,postman,docker,mysql,sqlite,react,typescript,html" style="height:40px;" />
 </p>
 
 ---
