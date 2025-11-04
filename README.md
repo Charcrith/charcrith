@@ -32,9 +32,20 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
 ---
 
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xbnckh5sidm34aq5iiarqq5b5m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false" alt="Spotify Playing" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xbnckh5sidm34aq5iiarqq5b5m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false" alt="Spotify Playing" width="320" />
+        </a>
+      </td>
+      <td align="center" valign="top" style="padding-left: 30px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charcrith&layout=donut-vertical&bg_color=181824&text_bold=true&text_color=eeeeee&title_color=ffffff" alt="Top Languages" width="320" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center" style="margin-top: 30px; font-size: 13px; color: #666;">
