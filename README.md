@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <p align="center">
-  <img src="assets/2omb-matrix.gif" alt="Anime Banner" width="600" >
+  <img src="assets/2omb-matrix.gif" alt="Anime Banner" width="500" >
 </p>
 
 <div align="center">
