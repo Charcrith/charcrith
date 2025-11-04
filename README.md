@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 
+<p align="center">
+  <img src="assets/2omb-matrix.gif" alt="Anime Banner" width="600" >
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F2F2F2&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;IT+%26+Innovation;CS+-+Data+Science+%26+Cybersecurity&background=F8F9FA00&gradient=34495E,95A5A6,34495E" alt="Typing SVG" />
 </div>
