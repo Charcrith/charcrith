@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F2F2F2&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;IT+%26+Innovation;CS+-+Data+Science+%26+Cybersecurity&background=F8F9FA00&gradient=003087,FFD700,003087" alt="Typing SVG" />
+  <div style="
+    background: linear-gradient(135deg, #003087, #1e40af, #003087);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    max-width: 900px;
+    margin: 20px auto;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 215, 0, 0.3);
+  ">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F2F2F2&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;IT+%26+Innovation;CS+-+Data+Science+%26+Cybersecurity&background=F8F9FA00&gradient=003087,FFD700,003087" alt="Typing SVG" />
+  </div>
 </div>
 
 <br>
