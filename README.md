@@ -22,7 +22,7 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
 
 ## Education
 <p align="center" style="font-weight: 700; color: #003087; line-height: 1.7; font-size: 18px;">
-  **BANGKOK UNIVERSITY**<br>
+  - BANGKOK UNIVERSITY -<br>
   <span style="color: #005EB8; font-weight: 600;">School of Information Technology and Innovation</span><br>
   <i style="color: #212529;">Computer Science - Data Science and Cybersecurity</i>
 </p>
@@ -57,7 +57,10 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
     </tr>
   </table>
 </div>
-
-<div align="center" style="margin-top: 30px; font-size: 13px; color: #666;">
-  <i style="color: #003087;">— Bangkok University —</i>
-</div>
+<br>
+<p align="center">
+  <a href="https://charcrith-portfolio.web.app/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-100000?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=34495E&color=2C3E50" alt="View Portfolio"/>
+  </a>
+</p>
+<br>
