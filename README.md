@@ -1,163 +1,66 @@
+<!DOCTYPE html>
+
+<p align="center">
+  <img src="assets/IMG_7407.gif" alt="Anime Banner" width="700" >
+</p>
+<br>
+<br>
 <div align="center">
-  
-  <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Charcrith&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=20" />
-  
-  <br><br>
-  
-  <!-- Dynamic Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🔐+Securing+the+Digital+World;⚡+Building+Robust+Backend+Systems;🚀+CS+Student+%40+Bangkok+University;💻+Go+%7C+Python+%7C+TypeScript;🌟+Always+Learning+New+Tech" alt="Typing Animation" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F2F2F2&center=true&vCenter=true&width=850&lines=%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2+%7C+ENGLISH;BANGKOK+UNIVERSITY;IT+%26+Innovation;CS+-+Data+Science+%26+Cybersecurity&background=F8F9FA00&gradient=34495E,95A5A6,34495E" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=charcrith&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/charcrith?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/charcrith?label=Stars&style=flat-square&color=0e75b6" alt="Stars" />
-</div>
+## Hi My name is Charcrit
+**Backend Dev**
 
-<br>
+-----------
 
----
+I’m a Computer Science student majoring in Cyber Security @ Bangkok University. I’m passionate about protecting the digital world and learning how to build secure systems to combat cyber threats. I love exploring new technologies and applying them to create safer digital environments.
 
-## 🎯 About Me
+-----------
 
-```python
-class Charcrith:
-    def __init__(self):
-        self.name = "Charcrith"
-        self.role = "Backend Developer"
-        self.location = "Bangkok, Thailand 🇹🇭"
-        self.education = "Bangkok University - CS (Cybersecurity & Data Science)"
-        self.interests = ["Cybersecurity", "Backend Architecture", "Cloud Computing"]
-        self.currently_learning = "Advanced Go Patterns & Cloud Security"
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
-
-me = Charcrith()
-me.say_hi()
-```
-
-<br>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+## Education
+<p align="center" style="font-weight: 700; color: #003087; line-height: 1.7; font-size: 18px;">
+  - BANGKOK UNIVERSITY -<br>
+  <span style="color: #005EB8; font-weight: 600;">School of Information Technology and Innovation</span><br>
+  <i style="color: #212529;">Computer Science - Data Science and Cybersecurity</i>
 </p>
 
-### 🔧 Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-</div>
-
-<br>
-
 ---
 
-## 📊 GitHub Analytics
+### Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,vscode,figma,postman,docker,mysql,sqlite,react,typescript,html" style="height:40px;" />
+</p>
+
+---
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=charcrith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=charcrith&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charcrith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  
-  <br><br>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charcrith&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" alt="Activity Graph" />
-  
-</div>
-
-<br>
-
----
-
-## 🎵 Now Playing & Connect
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🎧 Vibing to</h3>
-        <a href="https://open.spotify.com/user/31xbnckh5sidm34aq5iiarqq5b5m">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xbnckh5sidm34aq5iiarqq5b5m&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false" alt="Spotify Playing" width="350" />
+      <td align="center" valign="top">
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xbnckh5sidm34aq5iiarqq5b5m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false" alt="Spotify Playing" width="320" />
         </a>
       </td>
-      <td align="center" width="50%">
-        <h3>🌐 Let's Connect</h3>
-        <br>
-        <a href="https://charcrith.site/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-        </a>
-        <br><br>
-        <a href="mailto:your.email@example.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <br><br>
-        <a href="https://linkedin.com/in/your-profile" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <td align="center" valign="top" style="padding-left: 30px;">
+        <strong>My GitHub Stats</strong><br><br>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=charcrith&layout=donut-vertical&langs_count=8&hide_progress=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&ring_color=58a6ff&hide=jupyter%20notebook,tex" 
+            alt="charcrith's Top Languages" 
+            width="350" 
+          />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
 <br>
-
----
-
-<div align="center">
-  
-  ### 💡 Random Dev Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  
-  <br><br>
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charcrith/charcrith/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charcrith/charcrith/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/charcrith/charcrith/output/github-contribution-grid-snake.svg" />
-  </picture>
-  
-</div>
-
+<p align="center">
+  <a href="https://charcrith.site/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-100000?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=34495E&color=2C3E50" alt="View Portfolio"/>
+  </a>
+</p>
 <br>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
-</div>
