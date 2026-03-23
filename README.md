@@ -59,7 +59,7 @@ I’m a Computer Science student majoring in Cyber Security @ Bangkok University
 </div>
 <br>
 <p align="center">
-  <a href="https://charcrith-portfolio.web.app/" target="_blank" rel="noopener">
+  <a href="https://charcrith.site/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-100000?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=34495E&color=2C3E50" alt="View Portfolio"/>
   </a>
 </p>
