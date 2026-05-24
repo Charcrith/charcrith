@@ -2,7 +2,7 @@
   <img src="assets/Kermit.gif" alt="Anime Banner" width="700" />
 </p>
 
-<h1 align="center">Charcrit</h1>
+<h1 align="center"></h1>
 <p align="center">
   <strong>Backend Developer</strong><br>
   Computer Science Student | Cyber Security Focus
