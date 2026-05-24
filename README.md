@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Kermint.gif" alt="Anime Banner" width="700" />
+  <img src="assets/Kermit.gif" alt="Anime Banner" width="700" />
 </p>
 
 <h1 align="center">Charcrit</h1>
